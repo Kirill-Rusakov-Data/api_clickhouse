@@ -36,3 +36,6 @@ curl "http://localhost:8123/?query=SELECT%20count()%20FROM%20comments"
 ```bash
 python index.py
 ```
+
+<img width="1155" height="266" alt="Снимок экрана от 2026-11-22 19-42-15" src="https://github.com/user-attachments/assets/e44af170-4204-4240-87e9-4009634eee2a" />
+
