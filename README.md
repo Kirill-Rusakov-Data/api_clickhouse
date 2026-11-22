@@ -1,4 +1,4 @@
-# JSONPlaceholder → ClickHouse: Data Quality Pipeline
+# JSONPlaceholder → ClickHouse: Data Quality
 
 ETL-пайплайн с проверками качества данных перед и после загрузки в ClickHouse.
 
